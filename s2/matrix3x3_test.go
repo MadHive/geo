@@ -18,7 +18,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/golang/geo/r3"
+	"github.com/MadHive/geo/r3"
 )
 
 func TestCol(t *testing.T) {

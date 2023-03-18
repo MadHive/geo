@@ -1,3 +1,6 @@
+This fork of golang/geo exists to merge https://github.com/golang/geo/pull/98
+and add CellIndex intersection functionality.
+
 # Overview
 
 S2 is a library for spherical geometry that aims to have the same robustness,

@@ -18,10 +18,10 @@ import (
 	"io"
 	"math"
 
-	"github.com/golang/geo/r1"
-	"github.com/golang/geo/r2"
-	"github.com/golang/geo/r3"
-	"github.com/golang/geo/s1"
+	"github.com/MadHive/geo/r1"
+	"github.com/MadHive/geo/r2"
+	"github.com/MadHive/geo/r3"
+	"github.com/MadHive/geo/s1"
 )
 
 // Cell is an S2 region object that represents a cell. Unlike CellIDs,
